@@ -3,6 +3,7 @@ assignment2/.idea/**
 assignment2/.idea/**.**
 *#
 *.iml
+**/*.iml
 *.ipr
 *.iws
 *.jar
